@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color:white;
+}
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+.container{
+   display: flex;
+   justify-content: center;
+}
+
+.btn{
+    width: 10rem;
+    height:10rem;
+    margin: 0.5rem;
+    border-radius: 25px;
+    border-style:solid;
+}
+.red{
+    background-color: red;
+}
+.aqua{
+    background-color: aqua;
+}
+.green{
+    background-color:lawngreen;
+}
+.yellow{
+    background-color:yellow;
+}
+.flash{
+    background-color:white;
+}
